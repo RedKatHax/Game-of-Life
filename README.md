@@ -1,0 +1,1 @@
+Classic programmers project based on Conway's Game of Life by British mathemtician John Horton Conway. Zero player game with its evolution determined by its initial state and cells live or die based on the conditions programmed. https://en.wikipedia.org/wiki/Conway's_Game_of_Life
